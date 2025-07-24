@@ -1,0 +1,13 @@
+Date,Store,Product,Revenue,Units_Sold
+2023-01-31,Store A,Product X,1200,12
+2023-02-28,Store A,Product Y,1500,15
+2023-03-31,Store A,Product X,1300,14
+2023-04-30,Store A,Product Y,1400,16
+2023-05-31,Store A,Product X,1600,17
+2023-06-30,Store A,Product Y,1700,19
+2023-07-31,Store B,Product X,1800,20
+2023-08-31,Store B,Product Y,1900,22
+2023-09-30,Store B,Product X,2000,21
+2023-10-31,Store B,Product Y,2100,24
+2023-11-30,Store B,Product X,2200,25
+2023-12-31,Store B,Product Y,2300,28
