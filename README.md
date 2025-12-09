@@ -9,4 +9,4 @@ This project focuses on forecasting sales and predicting revenue using historica
 **Md Azal Ashraf**  
 Data Analyst | Python Developer  
 📧 hello.datanxt.tech@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/md-azal-ashraf-8ba4b9239)
